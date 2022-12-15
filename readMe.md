@@ -1,19 +1,6 @@
 
 <font size = 5> **Introducing Google Forms API with Python** </font>
 
-<font size=3>
-# Table of Contents
-
-[I Purpose and Application](# I Purpose and Application)
-
-[II Google Cloud and Google API Authentication](# II Google Cloud and Google API Authentication)
-
-[III Google Forms API with Python](# III Google Forms API with Python)
-
-[IV Problems and Reflections](# IV Problems)
-
-
-
 # I Purpose and Application
 
 Google Forms can be a convenient tool for interacting with students in the classroom, performing tasks such as taking attendance and posting short questions. This tutorial will introduce Google APIs’ authentication, Google Forms API (including creating and manipulating forms and retrieving data), and QR code generation. 
