@@ -9,9 +9,8 @@ The application scenario I have with Google Forms API is limited to teaching. Am
 
 Cloud services (Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud) provide users with access to remote resources for computing. Data storage oriented to average customers, such as iCloud and Dropbox, is part of cloud services in the broad definition. Obviously, Google Forms is provided by Google, and we will be working with Google Cloud in this tutorial. API (Application Programming Interface) refers to the way of communication among computer programs. Since we will be writing snippets of Python code to interact with Google Forms, we will need to use the appropriate API to let our code communicate with Google Forms. Naturally, the ‘appropriate API’(Google Forms API in this case) is constructed and provided by none other than Google. Obviously, this tutorial also requires some preliminary knowledge of Python and the terminal interface. 
 
-<!-- adding a very easy to use section>
+<!-- adding a very easy to use section-->
 
-<!-->
 
 # II Google Cloud and Google API Authentication
 
@@ -372,15 +371,14 @@ Although Google Forms is an efficient, convenient, and reliable pedagogical tool
 
 Secondly, there will always be some general concerns about utilizing digital tools. Google LLC, founded only about twenty years ago, has now grown into a business and technology giant that deeply shapes our daily life. Its search engine is probably the most ubiquitous digital functionality we seem not able to live without, not to mention the numerous sophisticated machine-learning models developed by Google behind many everyday technologies we have taken for granted and have been enjoying for free. This tutorial only introduces an extremely tiny part of the free services offered by Google, and it already has the potential to change the ways of class interaction. One cannot help but imagine how our teaching and research would be transformed if more and more new functionalities were deployed. However, we also need to realize the free and accessible services provided by Google are held up by a huge infrastructure that incorporates not only sprawling hardware around the globe but also the social constructs, such as the market, that are no less than crucial. Just to give an example, the accuracy and potency of machine learning models, to a great extent, rely on an immense amount of training data that can only be supported by a very large market. This is partly the reason why English is a hegemonic language in Natural Language Processing and why the language of Chinese might be one of the few strong competitors. What I attempt to suggest here is that the everyday technologies we take for granted on the surface are not much so in reality; the macro-structural factors operating behind them do not remain the same everywhere or unchanged forever. They are evolving, albeit slowly. What if Google went bankrupt, or became inaccessible, or simply changed its policy someday? In fact, many Google services are not available in some countries(such as China) or on devices produced by certain companies(such as Huawei.) Long-term sustainability and flexibility are but two of many questions that need to be addressed when scholars are engaging with digital pedagogy and methodology.
 
-<!-->
+<!--
 # V Easy to use guide.
 
 Google Forms:
 
 QR code generation:
 
-
-<!-->
+-->
 
 
 </font>
