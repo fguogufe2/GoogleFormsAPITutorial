@@ -1,4 +1,4 @@
-# Google Forms in the Classroom
+# A Quick Guide: Google Forms in the Classroom
 
 Google Forms offers a practical solution for classroom interaction, aiding tasks like attendance and posting quick questions. This tutorial delves into using Google Forms in educational settings.
 
