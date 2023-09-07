@@ -54,7 +54,6 @@ Note: While Google Forms requires a Google account, be aware that university-ass
 <hr>
 <p align="center">
     <img src="appendedPics/q5.png" width ="500" hight ="200">
-    <hr>
     <img src="appendedPics/q6.png" width ="500" hight ="200">
 </p>
 <hr>
