@@ -5,7 +5,7 @@ Google Forms offers a practical solution for classroom interaction, aiding tasks
 There are two main ways to use Google Forms:
 
 [1]. **Web Browsers** (Graphic User Interface): This is the most common method. It's straightforward and covers most needs.  
-[2]. **Google Forms API**: This is a more complex yet powerful method. It allows for bulk generation and retrieval of forms, minimizing manual errors. For more on Google Forms API and potential issues, consult the other guide titled **“Introducing Google Forms API with Python”** in this repository.
+[2]. **Google Forms API**: This is a more complex yet powerful method. It allows for bulk generation and retrieval of forms, minimizing manual errors. For more on Google Forms API and potential issues, consult the other guide titled [“Introducing Google Forms API with Python”](readMe.md) in this repository.
 For this guide, we’ll focus on the browser-based approach.
 
 **Note**: While Google Forms requires a Google account, be aware that university-associated Google email services (e.g., email_name@utexas.edu) might not offer full access to all Google features.
