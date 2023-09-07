@@ -218,7 +218,7 @@ form = service.forms().create(body=new_form).execute()
 
 - update the form with a description
 
-Once the form is created, we can not populate it with descriptions and questions by form id.
+Once the form is created, we can now populate it with descriptions and questions by form id.
 
 ```
 # The form is a dictionary object that includes two important items, "formId" and "responseUri"
