@@ -26,29 +26,29 @@ This section provides a step-by-step guide through the process of setting up a G
 
 1. Go to the drop-down manual '**Select a project**' and then click '**New project**' to create a new project, as the images below show.
 
-	<img src="./G1.png" width ="700" hight ="400">
+	<img src="appendedPics/G1.png" width ="700" hight ="400">
 	<hr>
 	
-	<img src="./G2.png" width ="700" hight ="400">
+	<img src="appendedPics/G2.png" width ="700" hight ="400">
 	<hr>
 
 2. Give a name to the project. It can be any name as long as it is easy to recognize and remember, then click on “create.” Ignore the “Location.” When the project is successfully created, the upper right corner of the window will pop up a notification.
 
-	<img src="./G3.png" width ="600" hight ="600"><hr>
+	<img src="appendedPics/G3.png" width ="600" hight ="600"><hr>
 
 3. To view the project, either click '**SELECT PROJECT**' in the ‘Notifications’ or go to the drop-down menu on the up left to select the project just created
 	
-	<img src="./G4.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G4.png" width ="700" hight ="400"><hr>
 
 ## Step 3  Authentication
 
 1.	Go to **navigation tab** —> **APIs & Services** —> **OAuth consent screen**
 	
-	<img src="./G5.png" width ="600" hight ="800"><hr>
+	<img src="appendedPics/G5.png" width ="600" hight ="800"><hr>
 
 2. Select ‘**External**’ (Internal requires Google Workspace user), and then click ’**CREATE**’ 
 	
-	<img src="./G6.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G6.png" width ="700" hight ="400"><hr>
 
 3. A new page, ‘**Edit app registration**’ will show up
 
@@ -63,23 +63,23 @@ This section provides a step-by-step guide through the process of setting up a G
 	- Click '**SAVE AND CONTINUE**' again
 	- Click '**BACK TO DASHBOARD**’
 	
-	<img src="./G7.png" width ="600" hight ="300"><hr>
+	<img src="appendedPics/G7.png" width ="600" hight ="300"><hr>
 
 4. enable the Google Forms API 
 
 	**navigation tab** —>**APIs & Services** —> **Library** —> type “**Google Forms**’ in the search bar in the center.
 	
-	<img src="./G8.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G8.png" width ="700" hight ="400"><hr>
 
 	Google provides over four hundred APIs, including Gmail, Youtube, Google Drive, etc. We will only focus on Google Forms API here, but the procedures are essentially the same for the rest.
 
 	Once the Google Forms API shows up, click it and then click “**ENABLE**.”
 	
-	<img src="./G9.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G9.png" width ="700" hight ="400"><hr>
 	
 	Find the ‘Credentials’ tab on the right side, click ‘**Credentials**’ —> ‘**CREATE CREDENTIALS**’
 	
-	<img src="./G10.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G10.png" width ="700" hight ="400"><hr>
 
 	There will be several options available for authentication methods. Usually API key is the fastest and easiest one. But Google also has set limits on the privileges and functionalities an API key is allowed to grant. Hence here we will use “OAuth client ID”
 
@@ -89,7 +89,7 @@ This section provides a step-by-step guide through the process of setting up a G
 
 	Then click ‘**CREATE**.’
 	
-	<img src="./G11.png" width ="700" hight ="400"><hr>
+	<img src="appendedPics/G11.png" width ="700" hight ="400"><hr>
 
 	the OAuth client is successfully created. The client is a JSON file that can be downloaded by
 clicking ‘DOWNLOAD JSON.’
