@@ -16,7 +16,9 @@ Note: While Google Forms requires a Google account, be aware that university-ass
 - Enter “google forms” in a browser, and usually, the first result is the Google Forms page.
 - Click “Go To Forms” and sign in with your Google account.
 <hr>
-<img src="appendedPics/q1.png" width ="500" hight ="200">
+<p align="center">
+ <img src="appendedPics/q1.png" width ="500" hight ="200">
+</p>
 <hr>
 - On the Google Forms page, choose ‘Blank’ under ‘Start a new form’ to begin.
 <hr>
