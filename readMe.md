@@ -9,6 +9,7 @@ The application scenario I have with Google Forms API is limited to teaching. Am
 
 Cloud services (Amazon Web Services, Microsoft Azure, Google Cloud, Alibaba Cloud) provide users with access to remote resources for computing. Data storage oriented to average customers, such as iCloud and Dropbox, is part of cloud services in the broad definition. Obviously, Google Forms is provided by Google, and we will be working with Google Cloud in this tutorial. API (Application Programming Interface) refers to the way of communication among computer programs. Since we will be writing snippets of Python code to interact with Google Forms, we will need to use the appropriate API to let our code communicate with Google Forms. Naturally, the ‘appropriate API’(Google Forms API in this case) is constructed and provided by none other than Google. Obviously, this tutorial also requires some preliminary knowledge of Python and the terminal interface. 
 
+For those who wish to utilize Google Forms without delving into coding, please consult the [quickGuide](./quickGuide.md) in this repository. 
 
 # II Google Cloud and Google API Authentication
 
